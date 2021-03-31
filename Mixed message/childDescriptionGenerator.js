@@ -39,10 +39,10 @@ function childDescription() {
     }
 
     // This piece of code selects a name
-
+    // TODO
 
     // This piece of code selects an occupation
-    
+    // TODO
 }
 
 
